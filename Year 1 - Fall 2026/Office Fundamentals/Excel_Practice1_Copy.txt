@@ -1,0 +1,51 @@
+Direction 5 > Cell A1
+My Budget By Month
+
+
+Direction 6 > Cell A2
+For the First Quarter
+
+
+Direction 7 > Cell A4
+Housing
+
+
+Direction 7 > Cell A5
+Groceries
+
+
+Direction 7 > Cell A6
+Utilities
+
+
+Direction 7 > Cell A7
+Misc Expenses
+
+
+Direction 7 > Cell A8
+Monthly Total
+
+
+Direction 8 > Cell B3
+January
+
+
+Direction 13 > Cell B8
+=b4+b5+b6+b7
+
+
+Direction 14 > Cell C8
+=c4+c5+c6+c7
+
+
+Direction 17 > Cell E3
+Total
+
+
+Direction 21 > Cell F3
+Trend
+
+
+Direction 41 > Chart Title textbox
+My Budget
+
