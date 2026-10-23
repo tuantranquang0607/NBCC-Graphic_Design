@@ -1,0 +1,57 @@
+Excel 2 - Inventory Copy
+
+Cell A1
+Inventory of Donated Computers and Devices
+
+Cell A2
+Items to be Refurbished
+
+Cell B3
+Quantity
+
+Cell C3
+Retail Price
+
+Cell D3
+Additional Cost
+
+Cell E3
+Total Value
+
+Cell F3
+Percent of Total Retail Value
+
+Cell A4
+2017 Dell Laptop
+
+Cells A5:A8
+2012 Apple iPad
+2019 HP Laptop
+2020 MacBook Pro
+Total Value for All Products 
+
+Cells B4:D7
+Column B
+10
+30
+17
+7
+
+Cells C4:C7
+250
+200
+540
+1200
+
+Cells D4:C7
+82
+61
+120
+92
+
+Cells E4
+=b4*c4 
+
+Cell A3
+As of September 1
+
